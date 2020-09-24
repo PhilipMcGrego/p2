@@ -1,12 +1,17 @@
-  
-}
-li{
-	border: none;
-	color: #F1FAEE;
-}
-	.navigationBar{
+.navigationBar{
 		text-align: right;
 		border-color: 
 		border-bottom-width: 2px;
 		border-style: dotted;
-	}
+		width: 100px;
+		height: 40px;
+	} 
+
+	.navigationBar:hover{
+		background-color: #F0f0f0;
+		color: white;
+		} 
+
+	body{
+		color: white;
+		}
